@@ -1,7 +1,7 @@
 __pycache__/
 env/*
 .vscode/*
-
+.idea/
 urs/Credentials.py
 
 scrapes/*
